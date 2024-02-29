@@ -10,7 +10,7 @@
   
  <header>
         <a href="/">
-            <img id="logo" src="NepalLiga.png" alt="NepalLiga">
+ <img id="logo" src="NepalLiga.png">
         </a>
     </header>
     
