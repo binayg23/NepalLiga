@@ -3,30 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    NepalLiga
-    <link rel="stylesheet" href="styles.css">
+    
+ <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   
  <header>
         <a href="/">
-            <img id="logo" src="logo.png" alt="Your Company Name">
+            <img id="logo" src="NepalLiga.png" alt="NepalLiga">
         </a>
     </header>
     
-   <p id="currentDateTime"></p>
+   <p id="CurrentTime"></p>
    
   <nav>
         <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About Us</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#contact">contact </a></li>
             
  </ul>
     </nav>
 
    <section id="home">
-        <h1>Welcome to My Webpage</h1>
+        <h1>Welcome to My NepalLiga</h1>
         <p> </p>
     </section>
    
